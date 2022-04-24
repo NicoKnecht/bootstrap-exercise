@@ -1,0 +1,9 @@
+*{
+    /* border: 1px red solid; */
+}
+.container-fluid .row .card{
+    border: 2px black solid;
+    box-shadow: 1px 6px 6px 4px rgba(0,0,0,0.37);
+-webkit-box-shadow: 1px 6px 6px 4px rgba(0,0,0,0.37);
+-moz-box-shadow: 1px 6px 6px 4px rgba(0,0,0,0.37);
+}
